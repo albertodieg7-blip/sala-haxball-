@@ -8,6 +8,6 @@
      "start": "node bot.js"
    },
    "dependencies": {
-     "haxball-headeless-manager":^1.3.0" 
+     "haxball-headless-manager":"^1.3.0" 
    }
 }
